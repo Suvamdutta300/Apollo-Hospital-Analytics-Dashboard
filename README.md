@@ -45,19 +45,19 @@ The dashboard helps management monitor KPIs, optimize resource utilization, impr
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive_Overview.png)
-
+![image alt](https://github.com/Suvamdutta300/Apollo-Hospital-Analytics-Dashboard/blob/main/Apollo%20Dashboard%20Overview/1.png)
 ---
 
 ### Patient & Doctor Analytics
 
-![Patient Doctor Analytics](Images/Patient_Doctor_Analytics.png)
+![image alt](https://github.com/Suvamdutta300/Apollo-Hospital-Analytics-Dashboard/blob/main/Apollo%20Dashboard%20Overview/2.png)
 
 ---
 
 ### Financial Analytics
 
-![Financial Analytics](Images/Financial_Analytics.png)
+![image alt](https://github.com/Suvamdutta300/Apollo-Hospital-Analytics-Dashboard/blob/main/Apollo%20Dashboard%20Overview/3.png)
+
 
 ---
 
