@@ -79,3 +79,7 @@ Email : Suvamdutta300@gmail.com
 Github : https://github.com/Suvamdutta300
 
 LinkedIn : www.linkedin.com/in/suvam-dutta
+
+**If you like this project**
+
+Give it a ⭐ on GitHub!
