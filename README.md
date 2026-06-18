@@ -71,16 +71,11 @@ The dashboard helps management monitor KPIs, optimize resource utilization, impr
 
 ---
 
-## Project Files
-
-- Power BI Dashboard (.pbix)
-- Dataset
-- Dashboard Screenshots
-
----
-
 ## Author
 
 Suvam Dutta
+Email : Suvamdutta300@gmail.com
 
-LinkedIn: Add Your LinkedIn URL Here
+Github : https://github.com/Suvamdutta300
+
+LinkedIn : www.linkedin.com/in/suvam-dutta
